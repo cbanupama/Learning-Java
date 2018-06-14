@@ -15,5 +15,7 @@ public class Main {
 		// main is function and it is a starting point for java programs
 		// the following line of code prints Hello, Java! to output device.
 		System.out.println("Hello, Java!");
-	}	
+	}
+	
+	// Java was originally created by sun microsystems and now acquired by oracle.
 }
